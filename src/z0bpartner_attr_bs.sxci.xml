@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SXCI" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <SXCI>
+    <IMPLEMENTATION_DATA>
+     <IMP_NAME>Z0BPARTNER_ATTR_BS</IMP_NAME>
+     <TEXT>Business status implementation</TEXT>
+     <IMP_CLASS>ZCL_IM_0BPARTNER_ATTR_BS</IMP_CLASS>
+     <EXIT_NAME>RSU5_SAPI_BADI</EXIT_NAME>
+     <INTER_NAME>IF_EX_RSU5_SAPI_BADI</INTER_NAME>
+    </IMPLEMENTATION_DATA>
+   </SXCI>
+  </asx:values>
+ </asx:abap>
+</abapGit>
